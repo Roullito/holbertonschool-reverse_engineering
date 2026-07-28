@@ -1,0 +1,9 @@
+
+./Dy_task0:     file format elf64-x86-64
+
+Contents of section .rodata:
+ 2000 01000200 486f6c62 6572746f 6e7b0045  ....Holberton{.E
+ 2010 6e746572 20746865 20666c61 673a2000  nter the flag: .
+ 2020 25343973 00436f72 72656374 20666c61  %49s.Correct fla
+ 2030 67210049 6e636f72 72656374 20666c61  g!.Incorrect fla
+ 2040 672e00                               g..             
